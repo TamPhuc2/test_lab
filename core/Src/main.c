@@ -95,6 +95,7 @@ int main(void)
   {
 	  HAL_GPIO_TogglePin(LED_RED_GPIO_Port, LED_RED_Pin);
 	  HAL_Delay(500);
+	  //form nb1
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
